@@ -1,0 +1,43 @@
+# This .gitignore file should be placed at the root of your Unity project repository
+#
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Aa]ssets/[Aa]ssetStoreTools*
+
+# Visual Studio / VS Code / Rider cache directory
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+# (keep meta files for Assets and ProjectSettings, but ignore temp ones)
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity crash reports
+sysinfo.txt
+*.stackdump
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 26
+  productGUID: 9d19ecc53bfd411d8177510be613f017
+  companyName: DefaultCompany
+  productName: Cyber Escape - Obstacle Dodger
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 600
+  m_WebGLTemplate: APPLICATION:Default
+  m_ActiveColorSpace: 1
